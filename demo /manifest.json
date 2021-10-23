@@ -1,9 +1,0 @@
-{
-    "name": "demo",
-    "description": "times pass ",
-    "version": "1",
-    "manifest_version": 3,
-    "action": {
-        "default_popup": "popup.html"
-    }
-}
