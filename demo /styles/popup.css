@@ -1,0 +1,7 @@
+#main_div{
+    background-color: red;
+    width: 300px;
+    height: 400px;
+    border:  4px dotted red;
+    color: aqua;
+}
